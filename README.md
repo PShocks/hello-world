@@ -1,2 +1,2 @@
 # hello-world
-hello world
+Basic default hello world application
